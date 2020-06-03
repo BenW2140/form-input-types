@@ -1,20 +1,26 @@
-# _{Application Name}_
+# _Survey Says_
 
-#### _{Brief description of application}, {Date of current version}_
+#### _This site offers the user a survey to fill out, June 03, 2020_
 
-#### By _**{List of contributors}**_
+#### By _**Ben White, Payne Fulcher**_
 
 ## Description
 
-_{This is a detailed description of your application. Its purpose and usage.  Give as much detail as needed to explain what the application does, and any other information you want users or other developers to have. }_
+_This site asks the user to fill out some information about themselves if they want to_
 
 ## Setup/Installation Requirements
 
-* _This is a great place_
-* _to list setup instructions_
-* _in a simple_
-* _easy-to-understand_
-* _format_
+Open by downloading:
+1. Download this repository onto your computer
+2. Double click index.html to open it in your web browser
+
+Open via Bash/GitBash:
+1. Clone this repository onto your computer:
+`https://github.com/BenW2140/form-input-types`
+2. Navigate into the `form input types` directory in Visual Studio Code or preferred text editor
+`code .`
+3. Open index.html in Chrome or preferred browser:
+`open index.html`
 
 _{Leave nothing to chance! You want it to be easy for potential users, employers and collaborators to run your app. Do I need to run a server? How should I set up my databases? Is there other code this app depends on?}_
 
