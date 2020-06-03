@@ -5,17 +5,22 @@ $(document).ready(function() {
     const food = $("#food1").val();
     const music = $("input:radio[name=music]:checked").val();
     const dob = $("#born").val();
-    $("#output").text(name);
+    const favoriteColor = $("#color").val();
   });
 
-  $("form#name").submit(function(event) {
-    event.preventDefault();
-    const input = $("#name1").val();
-    console.log(input)
-    $("#output").text(input);
-  });
+//   $("form#name").submit(function(event) {
+//     event.preventDefault();
+//     const input = $("#name1").val();
+//     console.log(input)
+//     $("#output").text(input);
+//   });
 
-});
+// });
  
 
- 
+// $("form#subtract").submit(function(event) {
+//   event.preventDefault();
+//   const number1 = $("#subtract1").val();
+//   console.log(number1)
+//   $("#output").text(number1);
+// });
